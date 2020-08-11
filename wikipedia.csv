@@ -1,0 +1,65 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q478702,Jim Shannon,Q215519,Democratic Unionist Party,17705,Q30173038,General election 2019,1
+Q24052787,Kellie Armstrong,Q244927,Alliance Party of Northern Ireland,10634,Q30173038,General election 2019,2
+,Philip Smith,Q841045,Ulster Unionist Party,4023,Q30173038,General election 2019,3
+,Joe Boyle,Q175443,Social Democratic and Labour Party,1994,Q30173038,General election 2019,4
+,Grant Abraham,Q7058484,Northern Ireland Conservatives,1476,Q30173038,General election 2019,5
+,Maurice Macartney,Q1096979,Green Party in Northern Ireland,790,Q30173038,General election 2019,6
+,Ryan Carlin,Q76382,Sinn Féin,555,Q30173038,General election 2019,7
+,Robert Stephenson,Q10647,UK Independence Party,308,Q30173038,General election 2019,8
+Q478702,Jim Shannon,Q215519,Democratic Unionist Party,24036,Q25052149,General election 2017,1
+Q24052787,Kellie Armstrong,Q244927,Alliance Party of Northern Ireland,5693,Q25052149,General election 2017,2
+Q6848174,Mike Nesbitt,Q841045,Ulster Unionist Party,4419,Q25052149,General election 2017,3
+,Joe Boyle,Q175443,Social Democratic and Labour Party,2404,Q25052149,General election 2017,4
+,Carole Murphy,Q76382,Sinn Féin,1083,Q25052149,General election 2017,5
+,Ricky Bamford,Q1096979,Green Party in Northern Ireland,607,Q25052149,General election 2017,6
+,Claire Hiscott,Q7058484,Northern Ireland Conservatives,507,Q25052149,General election 2017,7
+Q478702,Jim Shannon,Q215519,Democratic Unionist Party,15053,Q3586935,General election 2015,1
+,Robert Burgess,Q841045,Ulster Unionist Party,4868,Q3586935,General election 2015,2
+Q24052787,Kellie Armstrong,Q244927,Alliance Party of Northern Ireland,4687,Q3586935,General election 2015,3
+,Joe Boyle,Q175443,Social Democratic and Labour Party,2335,Q3586935,General election 2015,4
+,Joe Jordan,Q10647,UK Independence Party,2237,Q3586935,General election 2015,5
+,Johnny Andrews,Q7058484,Northern Ireland Conservatives,2167,Q3586935,General election 2015,6
+,Stephen Cooper,Q985076,Traditional Unionist Voice,1701,Q3586935,General election 2015,7
+,Sheila Bailie,Q76382,Sinn Féin,876,Q3586935,General election 2015,8
+Q478702,Jim Shannon,Q215519,Democratic Unionist Party,14926,Q215622,General election 2010,1
+Q6848174,Mike Nesbitt,Q7879942,Ulster Conservatives and Unionists,9050,Q215622,General election 2010,2
+,Deborah Girvan,Q244927,Alliance Party of Northern Ireland,2828,Q215622,General election 2010,3
+Q20631177,Claire Hanna,Q175443,Social Democratic and Labour Party,2164,Q215622,General election 2010,4
+,Terry Williams,Q985076,Traditional Unionist Voice,1814,Q215622,General election 2010,5
+,Michael Coogan,Q76382,Sinn Féin,1161,Q215622,General election 2010,6
+,Barbara Haig,Q1096979,Green Party in Northern Ireland,562,Q215622,General election 2010,7
+Q333235,Iris Robinson,Q215519,Democratic Unionist Party,20921,Q428598,General election 2005,1
+,Gareth McGimpsey,Q841045,Ulster Unionist Party,7872,Q428598,General election 2005,2
+Q6405417,Kieran McCarthy,Q244927,Alliance Party of Northern Ireland,3332,Q428598,General election 2005,3
+,Joe Boyle,Q175443,Social Democratic and Labour Party,2496,Q428598,General election 2005,4
+,Terry Dick,Q7058484,Northern Ireland Conservatives,1462,Q428598,General election 2005,5
+,Dermot Kennedy,Q76382,Sinn Féin,949,Q428598,General election 2005,6
+Q333235,Iris Robinson,Q215519,Democratic Unionist Party,18532,Q590740,General election 2001,1
+Q5237446,David McNarry,Q841045,Ulster Unionist Party,17422,Q590740,General election 2001,2
+Q6405417,Kieran McCarthy,Q244927,Alliance Party of Northern Ireland,2902,Q590740,General election 2001,3
+,Danny McCarthy,Q175443,Social Democratic and Labour Party,2646,Q590740,General election 2001,4
+,Liam Johnston,Q76382,Sinn Féin,930,Q590740,General election 2001,5
+Q5057164,Cedric Wilson,Q7058534,Northern Ireland Unionist Party,822,Q590740,General election 2001,6
+Q333991,John David Taylor,Q841045,Ulster Unionist Party,18431,Q918503,General election 1997,1
+Q333235,Iris Robinson,Q215519,Democratic Unionist Party,12579,Q918503,General election 1997,2
+Q6405417,Kieran McCarthy,Q244927,Alliance Party of Northern Ireland,5467,Q918503,General election 1997,3
+,Peter O'Reilly,Q175443,Social Democratic and Labour Party,2775,Q918503,General election 1997,4
+,Gilbert Chalk,Q7058484,Northern Ireland Conservatives,1743,Q918503,General election 1997,5
+,Garret O'Fachtna,Q76382,Sinn Féin,503,Q918503,General election 1997,6
+,Sarah Mullins,Q491782,Natural Law Party,121,Q918503,General election 1997,7
+Q333991,John David Taylor,Q841045,Ulster Unionist Party,19517,Q543609,General election 1992,1
+Q262040,Sammy Wilson,Q215519,Democratic Unionist Party,10606,Q543609,General election 1992,2
+Q6405417,Kieran McCarthy,Q244927,Alliance Party of Northern Ireland,7585,Q543609,General election 1992,3
+,Stephen John Arthur Eyre,Q7058484,Northern Ireland Conservatives,6782,Q543609,General election 1992,4
+,David Shaw,Q491782,Natural Law Party,295,Q543609,General election 1992,5
+Q333991,John David Taylor,Q841045,Ulster Unionist Party,28199,Q918472,General election 1987,1
+Q4681140,Addie Morrow,Q244927,Alliance Party of Northern Ireland,7553,Q918472,General election 1987,2
+,Imelda Elizabeth Hynds,Q1860218,Workers' Party of Ireland,1385,Q918472,General election 1987,3
+Q333991,John David Taylor,Q841045,Ulster Unionist Party,32627,Q20979173,1986 Strangford by-election,1
+,"""Peter Barry"" (Wesley Robert Williamson)",Q2708643,Anglo-Irish Agreement,1993,Q20979173,1986 Strangford by-election,2
+Q333991,John David Taylor,Q841045,Ulster Unionist Party,19086,Q918466,General election 1983,1
+Q7521093,Simpson Gibson,Q215519,Democratic Unionist Party,11716,Q918466,General election 1983,2
+Q4681140,Addie Morrow,Q244927,Alliance Party of Northern Ireland,6171,Q918466,General election 1983,3
+,James Curry,Q175443,Social Democratic and Labour Party,1713,Q918466,General election 1983,4
+,Samuel Raymond Heath,Q327591,Independent Labour,430,Q918466,General election 1983,5
